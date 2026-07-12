@@ -13,7 +13,6 @@ decal texture for Hammer.
 
 <img width="512" height="512" alt="ui" src="../examples/ui.png" />
 
-
 | City 17 (Half-Life 2) | City 10 (Entropy : Zero) |
 | :---: | :---: |
 | ![City 17](examples/city17.png) | ![City 10](examples/city10.png) |
